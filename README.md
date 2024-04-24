@@ -1,7 +1,7 @@
 
 Certainly! Here’s a concise description for Java development tasks related to the number guessing game and ATM interface:
 
-1. Number Guessing Game:
+<p1>1. Number Guessing Game:<p1>
 As part of the Oasis Infobyte Summer Internship Program (OIBSIP), I am working on implementing a number guessing game using Java.
 The game will include the following features:
 
@@ -10,7 +10,7 @@ Random Number Generation: The game will generate a random number for players to 
 Looping Logic: The game will continue until the player guesses the correct number or decides to quit.
 User-Friendly Interface: I aim to create an intuitive and engaging user experience.
 
-2. ATM Interface:
+<p1>2. ATM Interface:<p1>
 Additionally, I am tasked with designing an ATM (Automated Teller Machine) interface using Java. The ATM interface will include the following functionalities:
 
 1. Transaction History: View the transaction history of the account.
