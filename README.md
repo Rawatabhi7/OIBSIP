@@ -12,8 +12,10 @@ User-Friendly Interface: I aim to create an intuitive and engaging user experien
 
 2. ATM Interface:
 Additionally, I am tasked with designing an ATM (Automated Teller Machine) interface using Java. The ATM interface will include the following functionalities:
-Transaction History
-Cash Withdrawal
-Cash Deposit
-Transfer
-Quit
+
+1. Transaction History: View the transaction history of the account.
+2. Withdraw: Withdraw funds from the account.
+3. Deposit: Deposit funds into the account.
+4. Transfer: Transfer funds between accounts.
+5. Check Balance: Check the current account balance.
+6. Exit: Exit the ATM interface.
